@@ -1,0 +1,16 @@
+.table{
+    border: 1px solid black;
+}
+
+.table-head{
+    background-color: blue;
+    color: white;
+}
+
+.table-body{
+    border: 1px solid black;
+}
+
+.icon{
+    color: rgb(229, 235, 229);
+}

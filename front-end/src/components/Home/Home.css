@@ -1,0 +1,8 @@
+.homeSection{
+    max-height: 100%;
+    max-width: 100%;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 10px;
+}
